@@ -2,7 +2,7 @@
 author: Meimei
 title: HUGO So Easy (1) - 簡介
 date: 2023-12-11
-description: Use Hugo to Generate a Static Website
+description: Introduction of HUGO
 tags:
   - hugo
 thumbnail: /images/hugo/hugo.svg
