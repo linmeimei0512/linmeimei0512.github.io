@@ -12,6 +12,7 @@ thumbnail: /images/hugo/hugo.svg
  - [如何安裝 HUGO](../hugo-so-easy-02-install)
  - [建立 GitHub Repository](../hugo-so-easy-02-install)
  - [建立 HUGO 網站](../hugo-so-easy-04-create-hugo)
+ - [套用 HUGO 主題模板](../hugo-so-easy-05-set-theme.md)
 
 
 </br>
