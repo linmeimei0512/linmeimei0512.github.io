@@ -14,6 +14,7 @@ thumbnail: /images/hugo/hugo.svg
  - [建立 HUGO 網站](../hugo-so-easy-04-create-hugo)
  - [套用 HUGO 主題模板](../hugo-so-easy-05-set-theme)
  - [建立 HUGO 新頁面](../hugo-so-easy-06-create-new-hugo-page)
+ - [部署至 GitHub Pages](../hugo-so-easy-07-deply-to-github-pages)
 
 
 </br>

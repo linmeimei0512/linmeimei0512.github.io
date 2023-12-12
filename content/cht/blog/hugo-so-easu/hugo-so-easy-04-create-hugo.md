@@ -2,7 +2,7 @@
 author: Meimei
 title: HUGO So Easy (4) - 建立 HUGO 網站
 date: 2023-12-12
-description: How to create a repository on GitHub
+description: How to create a new HUGO
 tags:
   - hugo
 thumbnail: /hugo.svg
