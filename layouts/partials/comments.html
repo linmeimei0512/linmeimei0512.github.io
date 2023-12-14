@@ -3,21 +3,6 @@
   {{ if eq .Site.Params.comments.system "disqus" }}
   {{ template "_internal/disqus.html" . }}
   {{ else if eq .Site.Params.comments.system "giscus" }}
-  {{/*  <script src="https://giscus.app/client.js"
-    data-repo="{{ .Site.Params.comments.repo }}"
-    data-repo-id="{{ .Site.Params.comments.repoid }}"
-    data-category="{{ .Site.Params.comments.category }}"
-    data-category-id="{{ .Site.Params.comments.categoryid }}"
-    data-mapping="{{ default "pathname" .Site.Params.comments.mapping }}"
-    data-strict="{{ default "0" .Site.Params.comments.strict }}"
-    data-reactions-enabled="{{ default "1" .Site.Params.comments.reactionsenabled }}"
-    data-emit-metadata="{{ default "0" .Site.Params.comments.emitmetadata }}"
-    data-input-position="{{ default "bottom" .Site.Params.comments.inputposition }}"
-    data-theme="{{ default "preferred_color_scheme" .Site.Params.comments.theme }}"
-    data-lang="{{ default "en" $.Site.Language.Lang }}"
-    crossorigin="anonymous"
-    async>
-  </script>  */}}
   <script src="https://giscus.app/client.js"
     data-repo="{{ .Site.Params.comments.repo }}"
     data-repo-id="{{ .Site.Params.comments.repoid }}"
@@ -28,26 +13,11 @@
     data-reactions-enabled="{{ default "1" .Site.Params.comments.reactionsenabled }}"
     data-emit-metadata="{{ default "0" .Site.Params.comments.emitmetadata }}"
     data-input-position="{{ default "bottom" .Site.Params.comments.inputposition }}"
-    data-theme="{{ default "preferred_color_scheme" .Site.Params.comments.theme }}"
+    data-theme="{{ .Site.Params.comments.theme }}"
     data-lang="{{ .Site.Params.comments.lang }}"
     crossorigin="anonymous"
     async>
   </script>
-  {{/*  <script src="https://giscus.app/client.js"
-        data-repo="linmeimei0512/linmeimei0512.github.io"
-        data-repo-id="R_kgDOK4SmLg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOK4SmLs4Cbs6f"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-TW"
-        crossorigin="anonymous"
-        async>
-</script>  */}}
   {{ else if eq .Site.Params.comments.system "utterances" }}
   <script src="https://utteranc.es/client.js"
     repo="{{ .Site.Params.comments.repo }}"

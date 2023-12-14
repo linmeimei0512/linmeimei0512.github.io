@@ -102,7 +102,7 @@ staticDir = ['static']
   reactionsenabled = "1"
   emitmetadata = "0"
   inputposition = "bottom"
-  theme = "preferred_color_scheme"
+  theme = "transparent_dark"
   lang = "zh-TW"
 
   # Options for utterances, exclude hyphens
