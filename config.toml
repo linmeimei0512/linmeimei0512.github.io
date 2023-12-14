@@ -90,19 +90,20 @@ staticDir = ['static']
 [params.comments]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
-  # system = "giscus"
+  system = "giscus"
 
   # Options for giscus, exclude hyphens
-  repo = ""
-  repoid = ""
-  category = ""
-  categoryid = ""
-  mapping = ""
-  strict = ""
-  reactionsenabled = ""
-  emitmetadata = ""
-  inputposition = ""
-  theme = ""
+  repo = "linmeimei0512/linmeimei0512.github.io"
+  repoid = "R_kgDOK4SmLg"
+  category = "Announcements"
+  categoryid = "DIC_kwDOK4SmLs4Cbs6f"
+  mapping = "pathname"
+  strict = "0"
+  reactionsenabled = "1"
+  emitmetadata = "0"
+  inputposition = "bottom"
+  theme = "preferred_color_scheme"
+  lang = "zh-TW"
 
   # Options for utterances, exclude hyphens
   # repo = ""
