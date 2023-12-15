@@ -15,6 +15,7 @@ thumbnail: /images/hugo/hugo.svg
  - [套用 HUGO 主題模板](../hugo-so-easy-05-set-theme)
  - [建立 HUGO 新頁面](../hugo-so-easy-06-create-new-hugo-page)
  - [部署至 GitHub Pages](../hugo-so-easy-07-deply-to-github-pages)
+ - [導入 Giscus 留言系統](../hugo-so-easy-08-add-comment-system)
 
 
 </br>
