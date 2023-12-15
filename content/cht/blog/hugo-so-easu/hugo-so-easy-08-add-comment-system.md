@@ -126,3 +126,4 @@ cp themes/PaperMod/layouts/partials/footer.html layouts/partials/footer.html
 <center><img src="/images/hugo/08-add-giscus/giscus-14-comments-html.png" width="100%"/></center>
 
 到這邊我們就在 HUGO 成功導入 `Giscus` 留言系統嚕
+<center><img src="/images/hugo/08-add-giscus/giscus-15-giscus.png" width="100%"/></center>
