@@ -1,6 +1,6 @@
 ---
 author: Meimei
-title: Zsh So Easy (1) - Ubuntu
+title: Zsh So Easy - Ubuntu
 date: 2023-12-29
 description: Install Zsh on Ubuntu
 tags:
@@ -9,6 +9,12 @@ tags:
   - Powerlevel10k
 thumbnail: /images/zsh/zsh.png
 ---
+
+是不是一直覺得為什麼別人的 `終端機 Terminal` 都比較漂亮好看，有各種圖案，還可以顯示各種資訊，例如 `Git`、`Conda` 等。  
+不用再羨慕別人啦！這就教大家如何讓自己電腦的 `終端機 Terminal` 弄的很專業的樣子，即使是電腦白痴，也可以讓別看到你電腦時歎為觀止喔！
+
+
+</br>
 
 ## 安裝 Zsh
 
