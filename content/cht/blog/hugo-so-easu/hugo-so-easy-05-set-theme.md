@@ -5,7 +5,9 @@ date: 2023-12-12
 description: How to set a theme to HUGO
 tags:
   - hugo
-thumbnail: /hugo.svg
+keywords:
+  - hugo
+thumbnail: /images/hugo/hugo.png
 ---
 ## 套用 HUGO 主題模板
 

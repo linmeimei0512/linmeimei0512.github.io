@@ -5,7 +5,9 @@ date: 2023-12-12
 description: How to create a new HUGO page
 tags:
   - hugo
-thumbnail: /hugo.svg
+keywords:
+  - hugo
+thumbnail: /images/hugo/hugo.png
 ---
 ## 建立 HUGO 新頁面
 再次回到 `根目錄`

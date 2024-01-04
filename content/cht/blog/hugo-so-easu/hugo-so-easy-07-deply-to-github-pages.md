@@ -5,7 +5,9 @@ date: 2023-12-12
 description: How to deploy HUGO to github pages
 tags:
   - hugo
-thumbnail: /hugo.svg
+keywords:
+  - hugo
+thumbnail: /images/hugo/hugo.png
 ---
 ## 建立 GitHub Actions
 回到 Repository 的根目錄 (/hugo-example)，建立 `.github/workflows` 資料夾。

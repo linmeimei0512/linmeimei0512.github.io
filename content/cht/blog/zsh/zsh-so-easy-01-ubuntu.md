@@ -7,6 +7,10 @@ tags:
   - zsh
   - oh-my-zsh
   - Powerlevel10k
+keywords:
+  - zsh
+  - oh-my-zsh
+  - Powerlevel10k
 thumbnail: /images/zsh/zsh.png
 ---
 

@@ -5,7 +5,9 @@ date: 2023-12-12
 description: How to create a repository on GitHub
 tags:
   - hugo
-thumbnail: /hugo.svg
+keywords:
+  - hugo
+thumbnail: /images/hugo/hugo.png
 ---
 ## 建立 GitHub Repository
 

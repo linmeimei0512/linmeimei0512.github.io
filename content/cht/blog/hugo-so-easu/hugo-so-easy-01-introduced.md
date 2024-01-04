@@ -5,7 +5,9 @@ date: 2023-12-11
 description: Introduction of HUGO
 tags:
   - hugo
-thumbnail: /images/hugo/hugo.svg
+keywords:
+  - hugo
+thumbnail: /images/hugo/hugo.png
 ---
 ## Content
  - [HUGO 簡介](../hugo-so-easy-01-introduced)

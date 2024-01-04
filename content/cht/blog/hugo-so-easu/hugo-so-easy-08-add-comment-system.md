@@ -5,7 +5,11 @@ date: 2023-12-13
 description: How to add giscus comment system to HUGO.
 tags:
   - hugo
-thumbnail: /hugo.svg
+  - Giscus
+keywords:
+  - hugo
+  - Giscus
+thumbnail: /images/hugo/hugo.png
 ---
 ## 開啟 GitHub Discussions 功能
 

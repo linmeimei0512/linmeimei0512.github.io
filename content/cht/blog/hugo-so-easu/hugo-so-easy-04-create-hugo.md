@@ -5,7 +5,9 @@ date: 2023-12-12
 description: How to create a new HUGO
 tags:
   - hugo
-thumbnail: /hugo.svg
+keywords:
+  - hugo
+thumbnail: /images/hugo/hugo.png
 ---
 ## 建立新的 HUGO 網站
 剛剛我們已經建立了一個存放網站的空間，現在要開始建立網站了  

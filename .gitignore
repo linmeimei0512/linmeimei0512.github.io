@@ -3,3 +3,9 @@ node_modules/
 public/
 .obsidian/
 .hugo_build.lock
+
+# all temp file
+_*
+
+# all old file
+*.old

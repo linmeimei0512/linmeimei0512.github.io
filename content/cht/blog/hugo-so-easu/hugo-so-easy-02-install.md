@@ -5,7 +5,9 @@ date: 2023-12-11
 description: How to install HUGO on windows / macOS / Ubuntu
 tags:
   - hugo
-thumbnail: /hugo.svg
+keywords:
+  - hugo
+thumbnail: /images/hugo/hugo.png
 ---
 ## HUGO 安裝
 #### macOS
